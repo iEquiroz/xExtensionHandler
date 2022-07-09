@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>xExtennsionHandlerCore</id>
+    <version>1.0.0</version>
+    <authors>xExtennsionHandlerCore</authors>
+    <description>Metodos a reutilizar</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\bin\Release\net5.0\xExtennsionHandlerCore.dll" target="lib\net5.0\xExtennsionHandlerCore.dll" />
+    <file src="C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\bin\Release\net6.0\xExtennsionHandlerCore.dll" target="lib\net6.0\xExtennsionHandlerCore.dll" />
+  </files>
+</package>

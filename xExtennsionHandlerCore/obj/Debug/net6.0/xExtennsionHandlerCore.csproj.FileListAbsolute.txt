@@ -1,0 +1,12 @@
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\bin\Debug\net6.0\xExtennsionHandlerCore.deps.json
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\bin\Debug\net6.0\xExtennsionHandlerCore.dll
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\bin\Debug\net6.0\xExtennsionHandlerCore.pdb
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\obj\Debug\net6.0\xExtennsionHandlerCore.csproj.AssemblyReference.cache
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\obj\Debug\net6.0\xExtennsionHandlerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\obj\Debug\net6.0\xExtennsionHandlerCore.AssemblyInfoInputs.cache
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\obj\Debug\net6.0\xExtennsionHandlerCore.AssemblyInfo.cs
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\obj\Debug\net6.0\xExtennsionHandlerCore.csproj.CoreCompileInputs.cache
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\obj\Debug\net6.0\xExtennsionHandlerCore.dll
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\obj\Debug\net6.0\refint\xExtennsionHandlerCore.dll
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\obj\Debug\net6.0\xExtennsionHandlerCore.pdb
+C:\Users\raper\source\repos\xExtennsionHandlerCore\xExtennsionHandlerCore\obj\Debug\net6.0\ref\xExtennsionHandlerCore.dll
