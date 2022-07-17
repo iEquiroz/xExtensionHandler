@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fxX9BbYwKh2ACFV7Hnpscwj624oHA6mOsNkTEW3TNSOqudlhSJ685lzXrpPW3NHVGFqT+NkhdhHFRg7wuqi+Vw==",
+  "dgSpecHash": "5sGpgxJyit/FwJBcCKc13+NHVGaBoTWJHIqbKBF4161/TQlueMIlKJOHeJWDbJCr0Z9WZCTOqfbXzw0yuzffVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\raper\\source\\repos\\xExtennsionHandlerCore\\xExtennsionHandlerCore\\xExtennsionHandlerCore.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\raper\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\raper\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\raper\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
